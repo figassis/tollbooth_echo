@@ -4,6 +4,8 @@ github.com/didip/tollbooth v4.0.2+incompatible h1:fVSa33JzSz0hoh2NxpwZtksAzAgd7z
 github.com/didip/tollbooth v4.0.2+incompatible/go.mod h1:A9b0665CE6l1KmzpDws2++elm/CsuWBMa5Jv4WY0PEY=
 github.com/didip/tollbooth/v6 v6.0.1 h1:QvLvRpB1G2bzKvkRze0muMUBlGN9H1z7tJ4DH4ypWOU=
 github.com/didip/tollbooth/v6 v6.0.1/go.mod h1:j2pKs+JQ5PvU/K4jFnrnwntrmfUbYLJE5oSdxR37FD0=
+github.com/didip/tollbooth_echo v0.0.0-20190918161726-5adbfff23d88 h1:xmd6wXEmQm4LQj5MRL5DGMIYpnN+kOctgZvY33NrD5E=
+github.com/didip/tollbooth_echo v0.0.0-20190918161726-5adbfff23d88/go.mod h1:1+hzPJwNPmae/TNroGlSKsigt5KtLO88EvP4/TkienY=
 github.com/go-pkgz/expirable-cache v0.0.3 h1:rTh6qNPp78z0bQE6HDhXBHUwqnV9i09Vm6dksJLXQDc=
 github.com/go-pkgz/expirable-cache v0.0.3/go.mod h1:+IauqN00R2FqNRLCLA+X5YljQJrwB179PfiAoMPlTlQ=
 github.com/labstack/echo v3.3.10+incompatible h1:pGRcYk231ExFAyoAjAfD85kQzRJCRI8bbnE7CX5OEgg=
